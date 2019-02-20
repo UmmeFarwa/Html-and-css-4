@@ -1,0 +1,143 @@
+.dashed_border
+{
+   
+    padding:20px 40px;
+    text-align: center;
+    margin: 0.5em;
+    background-color: #F9FDFE;
+    background-image: linear-gradient(to right,#96C8F6 40%, transparent 30%), linear-gradient(to right,#96C8F6 40%, transparent 30%), linear-gradient(to bottom, #96C8F6 40%, transparent 30%), linear-gradient(to bottom, #96C8F6 40%, transparent 30%);
+    background-position: left top, left bottom, left top, right top;
+    background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 18px 2px, 18px 2px, 2px 18px, 2px 18px;
+}
+
+.styledicon
+{
+
+    color: #C6EEFC;
+    font-size: 40px;
+    
+}
+label
+{
+    font-size: 18px;
+    color:rgb(99, 98, 98);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+td
+{
+    text-align: right;
+    padding: 7px 7px;
+}        
+
+.Browse_button
+{
+    color: #EDF9FE;
+    background-color: #4DCDF8;
+    border: #7FDBF9;
+    border-style: solid 1px;
+    padding:10px 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+input
+{
+    
+    padding:10px 10px;
+    border:solid 2px #F3F3F3;
+    font-size:14px;
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+::placeholder
+{
+    color: #CECECE;
+}
+.button_cancel
+{
+    background-color:#FFFFFF;
+    border:none;
+    padding: 10px 28px;
+    font-size:16px;
+    color:#C8C8C8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button_save
+{
+    background-color:#4DCDF8;
+    border:none;
+    padding: 10px 30px;
+    color:#F5FBFE;
+    font-size:14px;
+}
+.coloredor
+{
+    color:#C7C9C9;
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 550;
+}
+form{
+    border: #7ADAF8 thin solid 10px;
+}
+body{
+    background-color: black;
+}
+table
+{
+    width: 100%;
+}
+.styledfont
+{
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+color: #6b6d6d;
+}
+.whitebg
+{
+    background-color: #FFFFFF;
+
+}
+.background_p
+{
+    background-color:#4DCDF8 ;
+    font-size:20px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:1%;
+    margin-right: 1%;
+    height:50px;
+    position: relative;
+    top:5px;
+
+
+}
+p
+{
+    position: relative;
+    top:10px;
+    left:15px ;
+}
+.innerbox
+{
+
+    background-color: #FFFFFF;
+    padding: 20px 50px;
+    margin: 1%;
+   }
+.outerbox
+{
+    width:65%;
+    background-image:url("./images./blue-soft-background-6-300x169.jpg"); 
+    padding: 50px 50px;
+    margin:auto;
+}
+.widthset
+{
+    width: 81%;
+}
